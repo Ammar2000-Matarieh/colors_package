@@ -18,6 +18,9 @@
     </a>
     <br>A new package for choosing colors. It is very powerful and supports all operating systems, including iPhone, Android, the web, and many platforms. It helps in direct access to colors.
 
+ _ Simple package helps you to use all colors to direct code and flexible and eazy use when use class it found over 100 colors 
+  
+
 ### Support = [**[ Android , IOS and _WEB_(soon) ](#video)**];
 
 - Support All Platform in flutter
@@ -44,7 +47,37 @@ Now in your Dart code, you can use:
 
 ```
 import 'package:c_material/c_material.dart';
+```
+## Usage : 
+```dart
+    /// You Can use Any Widgets in flutter like this :
+    /// Container(
+     color: MaterialColors.blue; 
+   /// )
 
+   /// But Note Very Important : 
+   /// you can use class MaterialColors just type proberity class Color
+   /// Not use MaterialAllProberity ....
+```
+
+
+## Global access to [Colors] from any Project : 
+```dart
+    ///If you need any thing from [Color Blue]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.blue;
+
+    ///If you need any thing from [Color Red]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.red;
+
+    ///If you need any thing from [Color Yellow]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.yellow;
+
+    ///If you need use color black [Color Black]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.black;
 ```
 
 # Dependencies
@@ -61,23 +94,23 @@ import 'package:c_material/c_material.dart';
   <img alt="" border="0" src="https://www.paypal.com/en_MN/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-## Additional information
+## Additional information Developer : 
 
 I hope this package helped you very well.
 If you need to contact with me: 
 
-<img src="https://github.com/MohammadBahlaq/short_navigation/raw/main/assets/Gmail.jpg" width="22"> [ammarmatarieh2@gmail.com]
+<img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/c_material_package/refs/heads/master/assets/images/Gmail.jpg" width="22"> [ammarmatarieh2@gmail.com]
 
 <!-- [<img src="https://github.com/MohammadBahlaq/short_navigation/raw/main/assets/Gmail.jpg" width="22">](Bahlaq57@gmail.com) -->
 
-<img src="https://raw.githubusercontent.com/MohammadBahlaq/short_navigation/main/assets/LinkedIn.png" width="20"> [https://www.linkedin.com/in/ammar-matarieh/]
+<img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/c_material_package/refs/heads/master/assets/images/LinkedIn.png" width="20"> [https://www.linkedin.com/in/ammar-matarieh/]
 
 <!-- [<img src="https://raw.githubusercontent.com/MohammadBahlaq/short_navigation/main/assets/LinkedIn.png" width="20">](www.linkedin.com/in/mohammad-bahlaq-089882220) -->
 
-<img src="https://github.com/Ammar2000-Matarieh/c_material_package/raw/assets/images/GitHub.png" width="20"> [https://github.com/Ammar2000-Matarieh]
+<img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/c_material_package/refs/heads/master/assets/images/GitHub.png" width="20"> [https://github.com/Ammar2000-Matarieh]
 
 <!-- [<img src="https://github.com/MohammadBahlaq/short_navigation/raw/main/assets/GitHub.png" width="20">](https://github.com/MohammadBahlaq) -->
 
 Do not hesitate to contact me if you faced any problem.
 
-Mohammad Bahlaq.
+Developer: Ammar Matarieh.
