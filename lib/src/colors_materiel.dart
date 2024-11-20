@@ -30,6 +30,8 @@ class MaterialColors {
 
   /// A light shade of seashell, resembling seashell.
   static const Color seashell = Color(0xFFFFF5EE);
+
+  /// A light shade of lavenderBlush, resembling lavenderBlush.
   static const Color lavenderBlush = Color(0xFFFFF0F5);
   static const Color papayaWhip = Color(0xFFFFEFD5);
   static const Color blanchedAlmond = Color(0xFFFFEBCD);
