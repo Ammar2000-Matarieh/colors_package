@@ -21,7 +21,7 @@
  _ Simple package helps you to use all colors to direct code and flexible and eazy use when use class it found over 100 colors 
   
 
-### Support = [**[ Android , IOS and _WEB_(soon) ](#video)**];
+### Support = [**[ Android , IOS and _WEB_(soon) ] **];
 
 - Support All Platform in flutter
 - Ease of use and flexibility in accessing colors directly
@@ -29,7 +29,6 @@
 - It is also easy to use in any mobile project and supports all platforms
 
 ---
-
 ### Setup
 
 #### iOS
@@ -53,6 +52,7 @@ Import the package to use it:
 ```
 import 'package:c_material/c_material.dart';
 ```
+
 ## Usage : 
 ```dart
     /// You Can use Any Widgets in flutter like this :
@@ -64,6 +64,9 @@ import 'package:c_material/c_material.dart';
    /// you can use class MaterialColors just type proberity class Color
    /// Not use MaterialAllProberity ....
 ```
+
+<img src="https://www.velebit.ai/images/blog/color-prediction-in-product-discovery/colors.png">
+
 
 ## Usage Just Class Color Type Not Type Class WidgetStateProperty<Colors?> 
 ```dart
