@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://pub.dev/packages/c_material">
-   <img src="https://www.velebit.ai/images/blog/color-prediction-in-product-discovery/colors.png" height="220" width="800">
+   <img src="https://www.velebit.ai/images/blog/color-prediction-in-product-discovery/colors.png" height="350" width="900">
     </a>
     <br>A new package for choosing colors. It is very powerful and supports all operating systems, including iPhone, Android, the web, and many platforms. It helps in direct access to colors.
 
