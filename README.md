@@ -16,8 +16,7 @@
     </a>
     <br>A new package for choosing colors. It is very powerful and supports all operating systems, including iPhone, Android, the web, and many platforms. It helps in direct access to colors.
 
- _ Simple package helps you to use all colors to direct code and flexible and eazy use when use class it found over 100 colors 
-  
+\_ Simple package helps you to use all colors to direct code and flexible and eazy use when use class it found over 100 colors
 
 ### Support = [**[ Android , IOS and _WEB_(soon) ] **];
 
@@ -27,7 +26,9 @@
 - It is also easy to use in any mobile project and supports all platforms
 
 ---
-## Features 
+
+## Features
+
 It is a very powerful package that includes around 140 colors and more. Its features include being filled with a wide variety of colors, being easy to use, and allowing developers to access the desired color through the MaterialColors class. It is also distinguished by its attractiveness across all colors.
 
 ### Setup
@@ -41,12 +42,13 @@ iOS (only support> 11.0) you need to add this line in your ios/Podfile
 
 `platform :ios, '11.0'`
 
-## Getting Started 
+## Getting Started
+
 To use C_Material_Colors in your project, add the c_material package to pubspec.yaml:
 
 dart pub add c_material or flutter pub add flex_color_scheme
 
-## import it 
+## import it
 
 Import the package to use it:
 
@@ -54,16 +56,17 @@ Import the package to use it:
 import 'package:c_material/c_material.dart';
 ```
 
-## Usage : 
+## Usage :
+
 Explaining of how to use this package
 
 ```dart
     /// You Can use Any Widgets in flutter like this :
     /// Container(
-     color: MaterialColors.blue; 
+     color: MaterialColors.blue;
    /// )
 
-   /// But Note Very Important : 
+   /// But Note Very Important :
    /// you can use class MaterialColors just type proberity class Color
    /// Not use MaterialAllProberity ....
 ```
@@ -72,40 +75,42 @@ Explaining of how to use this package
 
 <img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/colors_package/refs/heads/master/assets/Screenshot_1732104480.png">
 
+## Usage Just Class Color Type Not Type Class WidgetStateProperty<Colors?>
 
-## Usage Just Class Color Type Not Type Class WidgetStateProperty<Colors?> 
 ```dart
     /// You Can use Any Widgets in flutter like this :
     /// Container(
-     color: MaterialColors.blue; 
-   /// ), 
+     color: MaterialColors.blue;
+   /// ),
 
    /// AppBar(
     backgroundColor: MaterialColors.green
    /// )
 
-   /// But Note Very Important : 
+   /// But Note Very Important :
    /// you can use class MaterialColors just type proberity class Color
    /// Not use MaterialAllProberity ....
 ```
 
-## Using Widgets in Flutter 
+## Using Widgets in Flutter
+
 ```
-/// Example : 
+/// Example :
 /// Scaffold Widget => Scaffold(
-  backgroundColor: MaterialColors.red, 
-) , 
+  backgroundColor: MaterialColors.red,
+) ,
 
 /// Card Widget => Card(
-  color: MaterialColors.blue , 
-), 
+  color: MaterialColors.blue ,
+),
 
-Notes : 
+Notes :
 /// The most important thing about the package is that it does not accept a class of type WidgetStateProperty because it has a different type; it only accepts the type Color. ///
 
 ```
 
-## Global access to [Colors] from any Project : 
+## Global access to [Colors] from any Project :
+
 ```dart
     ///If you need any thing from [Color Blue]
     ///you can use it MaterialColors class to access Many Colors :
@@ -128,7 +133,8 @@ Notes :
     MaterialColors.sandyBrown;
 ```
 
-## Global access to [All Colors ] using class [MaterialColors Class] 
+## Global access to [All Colors ] using class [MaterialColors Class]
+
 ```dart
      ///If you need any thing from [Color blanchedAlmond]
     ///you can use it MaterialColors class to access Many Colors :
@@ -177,7 +183,6 @@ Notes :
 
 [flutter_c_material](https://pub.dev/packages/c_material)
 
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick" />
   <input type="hidden" name="hosted_button_id" value="YDEYAAGBXDDK6" />
@@ -185,10 +190,10 @@ Notes :
   <img alt="" border="0" src="https://www.paypal.com/en_MN/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-## Additional information Developer : 
+## Additional information Developer :
 
 I hope this package helped you very well.
-If you need to contact with me: 
+If you need to contact with me:
 
 <img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/colors_package/refs/heads/master/assets/Gmail.jpg" width="22"> [ammarmatarieh2@gmail.com]
 

@@ -1,14 +1,31 @@
 import 'package:flutter/widgets.dart';
 
+/// A class containing predefined material colors.
 class MaterialColors {
   MaterialColors._();
+
+  /// A light shade of white, resembling white.
   static const Color white = Color(0xFFFFFFFF);
+
+  /// A light shade of ivory, resembling ivory.
   static const Color ivory = Color(0xFFFFFFF0);
+
+  /// A light shade of lightYellow, resembling lightYellow.
   static const Color lightYellow = Color(0xFFFFFFE0);
+
+  /// A light shade of yellow, resembling yellow.
   static const Color yellow = Color(0xFFFFFF00);
+
+  /// A light shade of snow, resembling snow.
   static const Color snow = Color(0xFFFFFAFA);
+
+  /// A light shade of floralWhite, resembling floralWhite.
   static const Color floralWhite = Color(0xFFFFFAF0);
+
+  /// A light shade of lemonChiffon, resembling lemonChiffon.
   static const Color lemonChiffon = Color(0xFFFFFACD);
+
+  /// A light shade of cornSilk, resembling cornSilk.
   static const Color cornSilk = Color(0xFFFFF8DC);
   static const Color seashell = Color(0xFFFFF5EE);
   static const Color lavenderBlush = Color(0xFFFFF0F5);
