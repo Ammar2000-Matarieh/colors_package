@@ -5,12 +5,10 @@
 </a>
 
 ![Pub Version](https://img.shields.io/pub/v/c_material?color=1&label=c_material)
-![GitHub repo size](https://img.shields.io/github/repo-size/Ammar2000-Matarieh/c_material)
-![issues-raw](https://img.shields.io/github/issues-raw/Ammar2000-Matarieh/c_material)
-![license](https://img.shields.io/github/license/Ammar2000-Matarieh/c_material)
-![last-commit](https://img.shields.io/github/last-commit/Ammar2000-Matarieh/c_material)
-![stars](https://img.shields.io/github/stars/Ammar2000-Matarieh/c_material?style=social)
-![Dart CI](https://github.com/Ammar2000-Matarieh/c_material/workflows/Dart%20CI/badge.svg)
+![Swift](https://img.shields.io/badge/Code-Swift-orange)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-yellowgreen)
+![Java](https://img.shields.io/badge/Code-Java-red)
+![Dart](https://img.shields.io/badge/Code-Dart-blue)
 
 <p align="center">
     <a href="https://pub.dev/packages/c_material">
@@ -29,6 +27,9 @@
 - It is also easy to use in any mobile project and supports all platforms
 
 ---
+## Features 
+It is a very powerful package that includes around 140 colors and more. Its features include being filled with a wide variety of colors, being easy to use, and allowing developers to access the desired color through the MaterialColors class. It is also distinguished by its attractiveness across all colors.
+
 ### Setup
 
 #### iOS
@@ -54,6 +55,8 @@ import 'package:c_material/c_material.dart';
 ```
 
 ## Usage : 
+Explaining of how to use this package
+
 ```dart
     /// You Can use Any Widgets in flutter like this :
     /// Container(
@@ -86,6 +89,21 @@ import 'package:c_material/c_material.dart';
    /// Not use MaterialAllProberity ....
 ```
 
+## Using Widgets in Flutter 
+```
+/// Example : 
+/// Scaffold Widget => Scaffold(
+  backgroundColor: MaterialColors.red, 
+) , 
+
+/// Card Widget => Card(
+  color: MaterialColors.blue , 
+), 
+
+Notes : 
+/// The most important thing about the package is that it does not accept a class of type WidgetStateProperty because it has a different type; it only accepts the type Color. ///
+
+```
 
 ## Global access to [Colors] from any Project : 
 ```dart
