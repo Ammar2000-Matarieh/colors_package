@@ -27,6 +27,8 @@ class MaterialColors {
 
   /// A light shade of cornSilk, resembling cornSilk.
   static const Color cornSilk = Color(0xFFFFF8DC);
+
+  /// A light shade of seashell, resembling seashell.
   static const Color seashell = Color(0xFFFFF5EE);
   static const Color lavenderBlush = Color(0xFFFFF0F5);
   static const Color papayaWhip = Color(0xFFFFEFD5);
