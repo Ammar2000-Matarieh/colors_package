@@ -65,7 +65,9 @@ import 'package:c_material/c_material.dart';
    /// Not use MaterialAllProberity ....
 ```
 
-<img src="https://www.velebit.ai/images/blog/color-prediction-in-product-discovery/colors.png">
+<img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/colors_package/refs/heads/master/assets/Screenshot_1732096375.png">
+
+<img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/colors_package/refs/heads/master/assets/Screenshot_1732104480.png">
 
 
 ## Usage Just Class Color Type Not Type Class WidgetStateProperty<Colors?> 
