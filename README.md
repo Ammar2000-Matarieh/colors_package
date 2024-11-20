@@ -1,4 +1,4 @@
-# material_colors_flutter
+# c_material_colors_flutter
 
 <a href="https://github.com/Solido/awesome-flutter">
    <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://pub.dev/packages/c_material">
-   <img src="https://images.pexels.com/photos/1279813/pexels-photo-1279813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+   <img src="https://www.velebit.ai/images/blog/color-prediction-in-product-discovery/colors.png">
     </a>
     <br>A new package for choosing colors. It is very powerful and supports all operating systems, including iPhone, Android, the web, and many platforms. It helps in direct access to colors.
 
@@ -41,9 +41,14 @@ iOS (only support> 11.0) you need to add this line in your ios/Podfile
 
 `platform :ios, '11.0'`
 
-### Import it
+## Getting Started 
+To use C_Material_Colors in your project, add the c_material package to pubspec.yaml:
 
-Now in your Dart code, you can use:
+dart pub add c_material or flutter pub add flex_color_scheme
+
+## import it 
+
+Import the package to use it:
 
 ```
 import 'package:c_material/c_material.dart';
@@ -65,7 +70,7 @@ import 'package:c_material/c_material.dart';
 ```dart
     ///If you need any thing from [Color Blue]
     ///you can use it MaterialColors class to access Many Colors :
-    MaterialColors.blue;
+    MaterialColors.aliceBlue;
 
     ///If you need any thing from [Color Red]
     ///you can use it MaterialColors class to access Many Colors :
@@ -78,6 +83,10 @@ import 'package:c_material/c_material.dart';
     ///If you need use color black [Color Black]
     ///you can use it MaterialColors class to access Many Colors :
     MaterialColors.black;
+
+    ///If you need use color sandyBrown [Color Brown]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.sandyBrown;
 ```
 
 # Dependencies
