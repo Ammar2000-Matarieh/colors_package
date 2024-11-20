@@ -15,6 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: MaterialColors.gray,
         centerTitle: true,
         title: const Text(
           "Color Material",
@@ -86,7 +87,7 @@ class _HomeScreenState extends State<HomeScreen> {
             child: const Text(
               "Confirm",
               style: TextStyle(
-                color: MaterialColors.white,
+                color: MaterialColors.burlyWood,
               ),
             ),
           ),

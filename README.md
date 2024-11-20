@@ -65,6 +65,22 @@ import 'package:c_material/c_material.dart';
    /// Not use MaterialAllProberity ....
 ```
 
+## Usage Just Class Color Type Not Type Class WidgetStateProperty<Colors?> 
+```dart
+    /// You Can use Any Widgets in flutter like this :
+    /// Container(
+     color: MaterialColors.blue; 
+   /// ), 
+
+   /// AppBar(
+    backgroundColor: MaterialColors.green
+   /// )
+
+   /// But Note Very Important : 
+   /// you can use class MaterialColors just type proberity class Color
+   /// Not use MaterialAllProberity ....
+```
+
 
 ## Global access to [Colors] from any Project : 
 ```dart
@@ -87,6 +103,49 @@ import 'package:c_material/c_material.dart';
     ///If you need use color sandyBrown [Color Brown]
     ///you can use it MaterialColors class to access Many Colors :
     MaterialColors.sandyBrown;
+```
+
+## Global access to [All Colors ] using class [MaterialColors Class] 
+```dart
+     ///If you need any thing from [Color blanchedAlmond]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.blanchedAlmond,
+
+    ///If you need any thing from [Color blueViolet]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.blueViolet,
+
+    ///If you need any thing from [Color cornflowerBlue]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.cornflowerBlue,
+
+    ///If you need any thing from [Color chocolate]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.chocolate,
+
+    ///If you need any thing from [Color saddleBrown]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.saddleBrown,
+
+    ///If you need any thing from [Color fireBrick]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.fireBrick,
+
+    ///If you need any thing from [Color wheat]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.wheat,
+
+    ///If you need any thing from [Color darkGoldenrod]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.darkGoldenrod,
+
+    ///If you need any thing from [Color lightBlue]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.lightBlue,
+
+    ///If you need any thing from [Color darkRed]
+    ///you can use it MaterialColors class to access Many Colors :
+    MaterialColors.darkRed,
 ```
 
 # Dependencies
