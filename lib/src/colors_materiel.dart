@@ -7,6 +7,24 @@ class MaterialColors {
   /// A light shade of white, resembling white.
   static const Color white = Color(0xFFFFFFFF);
 
+  /// A very light gray, almost white.
+  static const Color offWhite = Color(0xFFFAFAFA);
+
+  /// A soft gray, slightly darker than off-white.
+  static const Color lightGray = Color(0xFFD3D3D3);
+
+  /// A pale cream, with a touch of warmth.
+  static const Color cream = Color(0xFFFFFDD0);
+
+  /// A very pale blue, with a slight tint.
+  static const Color lightBlueWhite = Color(0xFFE0F7FA);
+
+  /// A soft pinkish-white.
+  static const Color lightPinkWhite = Color(0xFFFFF0F5);
+
+  /// A light beige color.
+  static const Color lightBeige = Color(0xFFF5F5DC);
+
   /// A light shade of ivory, resembling ivory.
   static const Color ivory = Color(0xFFFFFFF0);
 

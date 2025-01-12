@@ -71,9 +71,35 @@ Explaining of how to use this package
    /// Not use MaterialAllProberity ....
 ```
 
-<img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/colors_package/refs/heads/master/assets/Screenshot_1732096375.png">
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>عرض الصور</title>
+  <style>
 
-<img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/colors_package/refs/heads/master/assets/Screenshot_1732104480.png">
+    .image-container {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+  </style>
+</head>
+<body>
+
+  <div class="image-container">
+    <img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/colors_package/refs/heads/master/assets/Screenshot_1732096375.png" alt="Image 1">
+    <img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/colors_package/refs/heads/master/assets/Screenshot_1732104480.png" alt="Image 2">
+  </div>
+
+</body>
+</html>
 
 ## Usage Just Class Color Type Not Type Class WidgetStateProperty<Colors?>
 
@@ -82,6 +108,10 @@ Explaining of how to use this package
     /// Container(
      color: MaterialColors.blue;
    /// ),
+
+   /// Container(
+     color: MaterialColors.offWhite;
+   /// )
 
    /// AppBar(
     backgroundColor: MaterialColors.green
