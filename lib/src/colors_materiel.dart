@@ -34,6 +34,26 @@ class MaterialColors {
   /// A light shade of yellow, resembling yellow.
   static const Color yellow = Color(0xFFFFFF00);
 
+  /// A light shade of yellow, resembling yellow.
+
+  static const Color lemonYellow = Color(0xFFF7FF00);
+
+  /// A light shade of yellow, resembling yellow.
+
+  static const Color goldenYellow = Color(0xFFFFD700);
+
+  /// A light shade of yellow, resembling yellow.
+
+  static const Color mustardYellow = Color(0xFFFFDB58);
+
+  /// A light shade of yellow, resembling yellow.
+
+  static const Color pastelYellow = Color(0xFFFFFACD);
+
+  /// A light shade of yellow, resembling yellow.
+
+  static const Color darkYellow = Color(0xFFFFAA00);
+
   /// A light shade of snow, resembling snow.
   static const Color snow = Color(0xFFFFFAFA);
 
