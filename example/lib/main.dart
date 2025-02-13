@@ -31,7 +31,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: MaterialColors.lightSlateGray,
+        backgroundColor: MaterialColors.slateBlueLight,
         centerTitle: true,
         title: const Text(
           "Color Material",
