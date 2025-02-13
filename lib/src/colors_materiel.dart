@@ -447,6 +447,50 @@ class MaterialColors {
 
   static const Color slateBlue = Color(0xFF6A5ACD);
 
+  /// A light shade of slateBlueLight, resembling slateBlue.
+
+  static const Color slateBlueLight = Color(0xFF7B6FC0);
+
+  /// A light shade of slateBlueLightLess, resembling slateBlue.
+
+  static const Color slateBlueLightLess = Color(0xFF8C80B3);
+
+  /// A light shade of slateBlueLightAll, resembling slateBlue.
+
+  static const Color slateBlueLightAll = Color(0xFF9D91A6);
+
+  /// A light shade of slateBlueLightMid, resembling slateBlue.
+
+  static const Color slateBlueLightMid = Color(0xFFAEA2A0);
+
+  /// A light shade of slateBlueLessDark, resembling slateBlue.
+
+  static const Color slateBlueLessDark = Color(0xFFBFB398);
+
+  /// A light shade of slateBlueDark, resembling slateBlue.
+
+  static const Color slateBlueDark = Color(0xFFCFB88A);
+
+  /// A light shade of slateBlueDarkAll, resembling slateBlue.
+
+  static const Color slateBlueDarkAll = Color(0xFFDFC37C);
+
+  /// A light shade of slateBlueDarkStrong, resembling slateBlue.
+
+  static const Color slateBlueDarkStrong = Color(0xFFEFCC6E);
+
+  /// A light shade of slateBlueDarkStrongHigh, resembling slateBlue.
+
+  static const Color slateBlueDarkStrongHigh = Color(0xFFF8D260);
+
+  /// A light shade of slateBlueDarkStrongHighAll, resembling slateBlue.
+
+  static const Color slateBlueDarkStrongHighAll = Color(0xFFF9C452);
+
+  /// A light shade of slateBlueNight, resembling slateBlue.
+
+  static const Color slateBlueNight = Color(0xFFF8D260);
+
   /// A light shade of dimGray, resembling dimGray.
 
   static const Color dimGray = Color(0xFF696969);

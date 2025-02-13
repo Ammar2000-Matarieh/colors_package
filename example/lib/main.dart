@@ -31,7 +31,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: MaterialColors.gray,
+        backgroundColor: MaterialColors.lightSlateGray,
         centerTitle: true,
         title: const Text(
           "Color Material",
@@ -50,7 +50,7 @@ class _HomeScreenState extends State<HomeScreen> {
             width: double.infinity,
             height: 100,
             decoration: const BoxDecoration(
-              color: MaterialColors.blueViolet,
+              color: MaterialColors.brown,
             ),
           ),
           const SizedBox(
@@ -69,7 +69,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   Text(
                     "Colors",
                     style: TextStyle(
-                      color: MaterialColors.brown,
+                      color: MaterialColors.aqua,
                       fontSize: 19,
                     ),
                   ),

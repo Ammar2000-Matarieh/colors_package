@@ -12,7 +12,7 @@
 
 <p align="center">
     <a href="https://pub.dev/packages/c_material">
-   <img src="https://i.pinimg.com/736x/e9/f0/82/e9f082e06742ee9047611bb3d8af4404.jpg" height="420" width="900">
+   <img src="https://img.freepik.com/free-vector/coloured-paint-stains-collection_1102-67.jpg?t=st=1739441769~exp=1739445369~hmac=d0d845cc4c6ff75dfaab116a4d417e00cf71078278066a7ec22f4d7dc430d2f3&w=1380" height="420" width="900">
     </a>
     <br>A new package for choosing colors. It is very powerful and supports all operating systems, including iPhone, Android, the web, and many platforms. It helps in direct access to colors.
 
