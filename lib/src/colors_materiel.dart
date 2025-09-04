@@ -4,6 +4,102 @@ import 'package:flutter/widgets.dart';
 class MaterialColors {
   MaterialColors._();
 
+  // new colors ============== : :
+
+  /// A light shade of coolGray, resembling white.
+  static const Color coolGray = Color(0xFF8C92AC);
+
+  /// A light shade of warmGray, resembling white.
+  static const Color warmGray = Color(0xFF9E7E67);
+
+  /// A light shade of charcoal, resembling white.
+  static const Color charcoal = Color(0xFF36454F);
+
+  /// A light shade of jet, resembling white.
+  static const Color jet = Color(0xFF343434);
+
+  /// A light shade of pastelBlue, resembling pastelBlue.
+
+  static const Color pastelBlue = Color(0xFFAEC6CF);
+
+  /// A light shade of pastelGreen, resembling pastelGreen.
+
+  static const Color pastelGreen = Color(0xFF77DD77);
+
+  /// A light shade of pastelPink, resembling pastelPink.
+
+  static const Color pastelPink = Color(0xFFF49AC2);
+
+  /// A light shade of pastelPurple, resembling pastelPurple.
+
+  static const Color pastelPurple = Color(0xFFB39EB5);
+
+  /// A light shade of pastelOrange, resembling pastelOrange.
+
+  static const Color pastelOrange = Color(0xFFFFB347);
+
+  /// A light shade of amber, resembling amber.
+
+  static const Color amber = Color(0xFFFFC107);
+
+  /// A light shade of deepOrange, resembling deepOrange.
+
+  static const Color deepOrange = Color(0xFFFF5722);
+
+  /// A light shade of cyanAccent, resembling cyanAccent.
+
+  static const Color cyanAccent = Color(0xFF00BCD4);
+
+  /// A light shade of indigoAccent, resembling indigoAccent.
+
+  static const Color indigoAccent = Color(0xFF3F51B5);
+
+  /// A light shade of pinkAccent, resembling pinkAccent.
+
+  static const Color pinkAccent = Color(0xFFE91E63);
+
+  /// A light shade of sand, resembling sand.
+
+  static const Color sand = Color(0xFFC2B280);
+
+  /// A light shade of desert, resembling desert.
+
+  static const Color desert = Color(0xFFEDC9AF);
+
+  /// A light shade of oliveDrabDark, resembling oliveDrabDark.
+
+  static const Color oliveDrabDark = Color(0xFF556B2F);
+
+  /// A light shade of stoneGray, resembling stoneGray.
+
+  static const Color mossGreen = Color(0xFF8A9A5B);
+
+  /// A light shade of stoneGray, resembling stoneGray.
+
+  static const Color stoneGray = Color(0xFF928E85);
+
+  /// A light shade of neonGreen, resembling neonGreen.
+
+  static const Color neonGreen = Color(0xFF39FF14);
+
+  /// A light shade of neonPink, resembling neonPink.
+
+  static const Color neonPink = Color(0xFFFF6EC7);
+
+  /// A light shade of electricBlue, resembling electricBlue.
+
+  static const Color electricBlue = Color(0xFF7DF9FF);
+
+  /// A light shade of vividOrange, resembling vividOrange.
+
+  static const Color vividOrange = Color(0xFFFF5F1F);
+
+  /// A light shade of vividPurple, resembling vividPurple.
+
+  static const Color vividPurple = Color(0xFF9A0EEA);
+
+  // new colors :
+
   /// A light shade of white, resembling white.
   static const Color white = Color(0xFFFFFFFF);
 
@@ -54,6 +150,14 @@ class MaterialColors {
 
   static const Color darkYellow = Color(0xFFFFAA00);
 
+  /// A light shade of darkAlpha, resembling yellow.
+
+  static const Color darkAlpha = Color(0xFFFFAAFF);
+
+  /// A light shade of darkGreen, resembling yellow.
+
+  static const Color darkGreenAlpha = Color(0xFFFFAAAA);
+
   /// A light shade of snow, resembling snow.
   static const Color snow = Color(0xFFFFFAFA);
 
@@ -99,6 +203,30 @@ class MaterialColors {
 
   static const Color gold = Color(0xFFFFD700);
 
+  /// A light shade of goldLight, resembling gold.
+
+  static const Color goldLight = Color(0xFFF4B100);
+
+  /// A light shade of goldBrilliant, resembling gold.
+
+  static const Color goldBrilliant = Color(0xFFFFEA8C);
+
+  /// A light shade of goldBright, resembling gold.
+
+  static const Color goldBright = Color(0xFFFFE55C);
+
+  /// A light shade of darkGold, resembling gold.
+
+  static const Color darkGold = Color(0xffE6C200);
+
+  /// A light shade of goldItalicOrange, resembling gold.
+
+  static const Color goldItalicOrange = Color(0xffFFC000);
+
+  /// A light shade of lemonGold, resembling gold.
+
+  static const Color lemonGold = Color(0xffFFDF00);
+
   /// A light shade of pink, resembling pink.
 
   static const Color pink = Color(0xFFFFC0CB);
@@ -135,6 +263,21 @@ class MaterialColors {
 
   static const Color orangeRed = Color(0xFFFF4500);
 
+  /// A lighter version of coral.
+  static const Color lightCoral = Color(0xFFF08080);
+
+  /// A warm shade of salmon.
+  static const Color salmon = Color(0xFFFA8072);
+
+  /// A deep shade of red.
+  static const Color fireBrick = Color(0xFFB22222);
+
+  /// A classic shade of red.
+  static const Color crimson = Color(0xFFDC143C);
+
+  /// A golden orange shade.
+  static const Color goldenRod = Color(0xFFDAA520);
+
   /// A light shade of deepPink, resembling deepPink.
 
   static const Color deepPink = Color(0xFFFF1493);
@@ -166,10 +309,6 @@ class MaterialColors {
   /// A light shade of antiqueWhite, resembling antiqueWhite.
 
   static const Color antiqueWhite = Color(0xFFFAEBD7);
-
-  /// A light shade of salmon, resembling salmon.
-
-  static const Color salmon = Color(0xFFFA8072);
 
   /// A light shade of ghostWhite, resembling ghostWhite.
 
@@ -211,10 +350,6 @@ class MaterialColors {
 
   static const Color khaki = Color(0xFFF0E68C);
 
-  /// A light shade of lightCoral, resembling lightCoral.
-
-  static const Color lightCoral = Color(0xFFF08080);
-
   /// A light shade of paleGoldenrod, resembling paleGoldenrod.
 
   static const Color paleGoldenrod = Color(0xFFEEE8AA);
@@ -246,10 +381,6 @@ class MaterialColors {
   /// A light shade of gainSboro, resembling gainSboro.
 
   static const Color gainSboro = Color(0xFFDCDCDC);
-
-  /// A light shade of crimson, resembling crimson.
-
-  static const Color crimson = Color(0xFFDC143C);
 
   /// A light shade of paleVioletRed, resembling paleVioletRed.
 
@@ -310,10 +441,6 @@ class MaterialColors {
   /// A light shade of darkGoldenrod, resembling darkGoldenrod.
 
   static const Color darkGoldenrod = Color(0xFFB8860B);
-
-  /// A light shade of fireBrick, resembling fireBrick.
-
-  static const Color fireBrick = Color(0xFFB22222);
 
   /// A light shade of powderBlue, resembling powderBlue.
 

@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
         title: const Text(
           "Color Material",
           style: TextStyle(
-            color: MaterialColors.blue,
+            color: MaterialColors.lemonGold,
             fontSize: 19,
             fontWeight: FontWeight.bold,
           ),
@@ -60,7 +60,8 @@ class _HomeScreenState extends State<HomeScreen> {
             width: double.infinity,
             height: 100,
             decoration: const BoxDecoration(
-              color: MaterialColors.white,
+              // new colors :
+              color: MaterialColors.pastelGreen,
             ),
             child: const Card(
               elevation: 2,
@@ -69,7 +70,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   Text(
                     "Colors",
                     style: TextStyle(
-                      color: MaterialColors.aqua,
+                      color: MaterialColors.goldItalicOrange,
                       fontSize: 19,
                     ),
                   ),
@@ -84,7 +85,8 @@ class _HomeScreenState extends State<HomeScreen> {
             width: double.infinity,
             height: 100,
             decoration: const BoxDecoration(
-              color: MaterialColors.red,
+              // new color
+              color: MaterialColors.coolGray,
             ),
           ),
           const SizedBox(
@@ -94,7 +96,8 @@ class _HomeScreenState extends State<HomeScreen> {
           // Example :
           ElevatedButton(
             style: ElevatedButton.styleFrom(
-              backgroundColor: MaterialColors.yellow,
+              // new colors :
+              backgroundColor: MaterialColors.cyanAccent,
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(10),
               ),

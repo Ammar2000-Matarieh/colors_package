@@ -1,6 +1,6 @@
 name: c_material
 description: A package to show All Colors in Any Application for iOS and Android, support Open from a different resource like Access Eazy Colors.
-version: 0.1.6
+version: 1.0.0
 homepage: https://github.com/Ammar2000-Matarieh/colors_package.git
 
 environment:
