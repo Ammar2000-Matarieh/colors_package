@@ -1,11 +1,16 @@
 name: c_material
-description: A package to show All Colors in Any Application for iOS and Android, support Open from a different resource like Access Eazy Colors.
-version: 2.1.0
+description: >
+  A modern Flutter color system that provides predefined colors,
+  semantic color tokens, Material 3 themes, and helpful color extensions
+  for building consistent and scalable UI designs.
+
+version: 2.2.0
+
 homepage: https://github.com/Ammar2000-Matarieh/colors_package.git
 
 environment:
   sdk: ^3.5.4
-  flutter: ">=1.17.0"
+  flutter: ">=3.16.0"
 
 dependencies:
   flutter:
