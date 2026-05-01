@@ -1,10 +1,8 @@
 name: c_material
-description: >
-  A modern Flutter color system that provides predefined colors, semantic color
-  tokens, Material 3 themes, and helpful color extensions for building
-  consistent and scalable UI designs.
+description: A modern Flutter color system with predefined colors, semantic
+  tokens, and Material 3 themes for building consistent and scalable UI designs.
 
-version: 2.2.3
+version: 2.2.5
 
 homepage: https://github.com/Ammar2000-Matarieh/colors_package.git
 
