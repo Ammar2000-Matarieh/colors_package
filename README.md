@@ -12,7 +12,7 @@
 
 <p align="center">
     <a href="https://pub.dev/packages/c_material">
-   <img src="assets/colors_new.png" height="420" width="900" alt="C_Material Header">
+   <img src="https://raw.githubusercontent.com/Ammar2000-Matarieh/colors_package/master/assets/colors_new.png" height="420" width="900" alt="C_Material Header">
 </a>
     <br>A new package for choosing colors. It is very powerful and supports all operating systems, including iPhone, Android, the web, and many platforms. It helps in direct access to colors.
 
