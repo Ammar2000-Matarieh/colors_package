@@ -1,0 +1,18 @@
+# استبعاد التوثيق المولد يدوياً (مهم جداً)
+doc/api/
+
+# استبعاد مجلدات المشاريع داخل الـ example (فقط ملفات الـ dart والـ pubspec مطلوبة)
+example/ios/
+example/android/
+example/macos/
+example/windows/
+example/linux/
+example/web/
+example/build/
+
+# استبعاد ملفات النظام
+.DS_Store
+.dart_tool/
+
+# استبعاد الصور الكبيرة إذا لم تكن ضرورية لمستخدم المكتبة
+assets/colors_new.png
