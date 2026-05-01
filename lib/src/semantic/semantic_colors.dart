@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../colors_materiel.dart';
+import '../material_colors.dart';
 
 class CSemanticColors {
   CSemanticColors._();

@@ -7,7 +7,7 @@ library c_material;
 // export 'package:c_material/src/colors_materiel.dart';
 // library c_material;
 
-export 'src/colors_materiel.dart';
-export 'src/semantic/c_semantic_colors.dart';
-export 'src/theme/c_material_theme.dart';
-export 'src/extensions/color_x.dart';
+export 'src/material_colors.dart';
+export 'src/semantic/semantic_colors.dart';
+export 'src/theme/material_theme_data.dart';
+export 'src/extensions/color_extensions.dart';

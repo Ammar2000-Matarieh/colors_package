@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../semantic/c_semantic_colors.dart';
+import '../semantic/semantic_colors.dart';
 
 class CTheme {
   CTheme._();
