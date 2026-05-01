@@ -1,3 +1,8 @@
+## 2.2.1 Update Image 
+
+* Update README with professional branding.
+* Improve UI in example app.
+
 ## 2.2.0
 
 ### ✨ Added

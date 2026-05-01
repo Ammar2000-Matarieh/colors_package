@@ -27,8 +27,8 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final primary = CSemanticColors.primary;
-    final success = CSemanticColors.success;
+    const primary = CSemanticColors.primary;
+    const success = CSemanticColors.success;
 
     return Scaffold(
       appBar: AppBar(
